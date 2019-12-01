@@ -10,7 +10,7 @@ Create "Pod"
 ```
 kubectl create -n ecepxie -f login.yaml
 ```
-##How to depoloy a job
+## How to depoloy a job
 ```
 kubectl apply -f job.yaml
 ```
